@@ -1,7 +1,7 @@
 # n8n Call Quality Tracker
 > Transcribes support calls, scores quality with AI, answers stats questions via an AI agent.
 
-![cover](docs/images/cover.png)
+![cover](docs/images/cover.png.png)
 
 ## Problem
 Support teams record hundreds of calls but can review only a few of them.
